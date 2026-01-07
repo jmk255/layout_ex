@@ -1,0 +1,14 @@
+/*구글 폰트*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+* {margin: 0; padding: 0; box-sizing: border-box;}
+ul, li {list-style: none;}
+a {text-decoration: none; color: inherit;}
+button{
+  font-family: inherit;
+  background-color:transparent;
+  border:none;
+  outline:none;
+  color:inherit;
+}
+body {font-family: "Noto Sans KR", sans-serif;}
